@@ -1,7 +1,0 @@
-/app/src/main/java/com/example/springproject/exception/ProductNotFoundException.java
-/app/src/main/java/com/example/springproject/SpringProjectApplication.java
-/app/src/main/java/com/example/springproject/model/Product.java
-/app/src/main/java/com/example/springproject/repository/ProductRepository.java
-/app/src/main/java/com/example/springproject/exception/GlobalExceptionHandler.java
-/app/src/main/java/com/example/springproject/controller/ProductController.java
-/app/src/main/java/com/example/springproject/service/ProductService.java
